@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "709443098233",
+    "project_id": "fir-firebase-517cc",
+    "storage_bucket": "fir-firebase-517cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709443098233:android:7f924ec96be4ba2d1626a8",
+        "android_client_info": {
+          "package_name": "com.example.buoi4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709443098233-u9vppvscbi1sfeufenbbr1au4rd1hshq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJNzHh2hCMS_-qTPIsl8oRghZ7uwkho-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709443098233-u9vppvscbi1sfeufenbbr1au4rd1hshq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

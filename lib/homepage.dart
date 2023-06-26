@@ -36,7 +36,11 @@ class _homepageState extends State<homepage> {
               icon: Icon(Icons.logout))
         ],
       ),
-      body: Center(child: Text(' Welcome: $emailUser')),
+      body: Center(
+          child: Text(
+        ' Welcome: $emailUser',
+        style: TextStyle(fontSize: 20),
+      )),
     );
   }
 }
